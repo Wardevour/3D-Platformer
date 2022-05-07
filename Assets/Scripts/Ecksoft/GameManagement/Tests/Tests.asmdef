@@ -1,0 +1,12 @@
+{
+    "name": "Ecksoft.GameManagement.Tests",
+    "references": [
+        "Ecksoft.GameManagement"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
